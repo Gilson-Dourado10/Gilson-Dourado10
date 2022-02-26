@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Gilson-Dourado10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou Gilson Dourado
+- 👀 eu sou estudante de Análise e Desenvolvimento de Sistemas.
+- 🌱 com foco, disciplina e fé 
+- 💞️ o sucesso está logo ali. 
+- 📫 
 
-<!---
-Gilson-Dourado10/Gilson-Dourado10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
