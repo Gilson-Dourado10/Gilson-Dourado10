@@ -1,10 +1,5 @@
-- 👋 Olá, eu sou Gilson Dourado
-- 👀 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 com foco, disciplina e fé 
-- 💞️ plante cada um desses e 
-- 📫 o sucesso está logo ali.
-
-
+ Olá, eu sou Gilson Dourado
+ 
 ```ruby 
 class Programmer
 
