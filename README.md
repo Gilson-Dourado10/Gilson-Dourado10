@@ -34,7 +34,7 @@ class Programmer
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://https://github.com/Gilson-Dourado10/pesquisaBinaria.git"><b>pesquisaBinaria</b></a></td>
+            	<td><a href="//https://github.com/Gilson-Dourado10/pesquisaBinaria.git"><b>Portal Agro</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Gilson-Dourado/pesquisaBinaria?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Gilson-Dourado/pesquisaBinaria?style=flat-square&labelColor=343b41" /></td>
@@ -43,7 +43,7 @@ class Programmer
         </tr>
         <tr>
 		<td>2</td>
-		<td><a href=https://github.com/https://github.com/Gilson-Dourado10/Calculadora1-c-.git"><b>Calculadora1-c-</b></a></td>
+		<td><a href=https://github.com/https://github.com/Gilson-Dourado10/Calculadora1-c-.git"><b>ALM / CI</b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/Gilson-Dourado10/Calculadora1-c-?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Gilson-Dourado10/Calculadora1-c-?style=flat-square&labelColor=343b41" /></td>
@@ -52,7 +52,7 @@ class Programmer
         </tr>
         <tr>
 		<td>3</td>
-            	<td><a href="https://https://github.com/Gilson-Dourado10/Cronometro-com-c-.git"><b>Cronometro-com-c-</b></a></td>
+            	<td><a href="https://github.com/Gilson-Dourado10/Cronometro-com-c-.git"><b>Cronometro-com-c-</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Gilson-Dourado10/Cronometro-com-c-?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Gilson-Dourado10/Cronometro-com-c-?style=flat-square&labelColor=343b41" /></td>
@@ -61,7 +61,7 @@ class Programmer
         </tr>
 	 <tr>
 		<td>4</td>
-            	<td><a href="https://github.com/https://github.com/Gilson-Dourado10/estoque-produto-java.git"><b>estoque-produto-java</b></a></td>
+            	<td><a href="https://github.com/Gilson-Dourado10/estoque-produto-java.git"><b>estoque-produto-java</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Gilson-Dourado10/estoque-produto-java?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Gilson-Dourado10/estoque-produto-java?style=flat-square&labelColor=343b41" /></td>
