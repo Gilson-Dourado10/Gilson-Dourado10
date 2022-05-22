@@ -44,7 +44,7 @@ class Programmer
         </tr>
         <tr>
 		<td>2</td>
-		<td><a href=https://github.com/https://github.com/Gilson-Dourado10/Calculadora1-c-.git"><b>ALM / CI</b></a></td>
+		<td><a href=https://github.com/https://github.com/Gilson-Dourado10/Calculadora1-c-.git"><b>Calculadora1-c-</b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/Gilson-Dourado10/Calculadora1-c-?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Gilson-Dourado10/Calculadora1-c-?style=flat-square&labelColor=343b41" /></td>
