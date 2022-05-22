@@ -35,6 +35,7 @@ class Programmer
 	<tr>
 		<td>1</td>
             	<td><a href="https:github.com/Gilson-Dourado10/my-study-ruby).git"><b>my-study-ruby</b></a></td>
+		<td>Business / Developer</td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Gilson-Dourado10/my-study-ruby?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Gilson-Dourado10/my-study-ruby?style=flat-square&labelColor=343b41" /></td>
