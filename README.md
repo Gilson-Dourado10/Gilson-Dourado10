@@ -8,7 +8,7 @@ class Programmer
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="(https://www.linkedin.com/in/gilson-dourado-a0a4481a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6uuSDfV1T2iewDKkrqYlJQ%3D%3D)" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true"  width="40" target="_blank"/></a>
+    <a href="https://www.linkedin.com/in/gilson-dourado-a0a4481a6/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true"  width="40" target="_blank"/></a>
     <a href="https://t.me/Gilson_Dourado" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/telegram.png?raw=true" alt="marcodotcastro" height="30" width="40"/></a>
     
 </p>
