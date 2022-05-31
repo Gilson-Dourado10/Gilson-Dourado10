@@ -15,7 +15,7 @@ class Programmer
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gilson-Dourado10" alt="Gilson-Dourado10" /> </p>
 
 
 <h3>Open Source Projects</h3>
